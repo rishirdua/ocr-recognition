@@ -9,7 +9,8 @@ Rishi Dua <http://github.com/rishirdua>
 
 Disclaimer
 -----------
-The problem below has been borrowed (with minor changes) from the Probabilistic Graphical Models course offered by Dr. Parag Singla at IIT Delhi (Fall 2013 Semester).
+- The problem below has been borrowed (with minor changes) from the Probabilistic Graphical Models course offered by Dr. Parag Singla at IIT Delhi (Fall 2013 Semester).
+- The codes in this repository might have been modified from my original submission for the CSL864 Probabilistic Graphical Models at IIT Delhi.
 
 
 Problem Statement
